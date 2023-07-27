@@ -1,0 +1,4 @@
+Es un documento creado desde la terminal del movil mediante ssh
+aunque va un poco raro porque no se refrescan los carqcteres
+
+y no se guardaro✓

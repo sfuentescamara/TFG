@@ -1,0 +1,15 @@
+Estructura database:
+------------------
+Nombre de la base de datos: base_datos_3
+------------------
+'abierta', 'cerrada', 'perfil'
+------------------
+Parametros de la red:
+------------------
+clases = 3
+epocas = 50
+h , w = 224, 224
+batch_size = 32
+pasos = 110
+validation_steps = 50
+lr = 0.0004
